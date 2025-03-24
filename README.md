@@ -1,2 +1,2 @@
 # SenseiWeb
-This Is A Gaming Like Search
+A Gaming Search Bar That Googles Yiur KeyWor But In a Cool Gaming Enviroment 
